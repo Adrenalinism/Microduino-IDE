@@ -11,6 +11,4 @@ E-mail:
 Kejia Pan
 pankejia@microduino.cc
 
-==============
-Weibo:
-@老潘orz
+Will be adding stuff here to revitalise my old project.
